@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanthinks" alt="amanthinks" /></a> </p>
 
-- 🌱 I’m currently learning **JS.Node, python**
+- 🌱 I’m currently learning **Node.js, python**
 
 - 👯 I’m looking to collaborate on **cyber security**
 
