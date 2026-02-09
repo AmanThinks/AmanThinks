@@ -17,7 +17,7 @@
 - 🔐 Interested in **Ethical Hacking & Secure Systems**
 - 💼 Internship & Virtual Job Simulation Experience
 - 🚀 Passionate about **real-world projects**
-- 📫 Email: **your-email@gmail.com**
+- 📫 Email: **myselfamangupta08@gmail.com**
 
 ---
 
@@ -83,7 +83,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/AmanThinks/AmanThinks/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
