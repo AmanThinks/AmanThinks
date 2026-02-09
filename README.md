@@ -91,10 +91,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-gupta-9553073a2" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/AmanThinks" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
