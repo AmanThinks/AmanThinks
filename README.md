@@ -35,7 +35,7 @@
 
 ### 🔐 Cyber Security (Learning)
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,unix" />
 </p>
 
 ### 🛠 Tools & Platforms
