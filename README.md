@@ -64,14 +64,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
