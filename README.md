@@ -59,9 +59,6 @@
   - Backend systems
   - Financial workflows
 
-- 🔐 **Cyber Security Mini Projects**
-  - Linux & Networking basics
-
 ---
 
 ## 📊 GitHub Stats
