@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year Engineering Student  
+- 🎓 3rd Year Engineering Student  
 - 🌱 Learning **Web Development & Cyber Security**
 - 🔐 Interested in **Ethical Hacking & Secure Systems**
 - 💼 Internship & Virtual Job Simulation Experience
