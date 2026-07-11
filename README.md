@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=2nd+Year+Engineering+Student;Web+Developer;Aspiring+Cyber+Security+Professional;Building+Secure+and+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=3rd+Year+Engineering+Student;Web+Developer;Aspiring+Cyber+Security+Professional;Building+Secure+and+Scalable+Apps" />
 </p>
 
 <p align="center">
